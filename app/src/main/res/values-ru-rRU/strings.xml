@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ЯндексПогода</string>
+    <string name="degrees">o</string>
+    <string name="city">Москва</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="perception">Ощущается</string>
+    <string name="km_h">км/ч</string>
+    <string name="refresh">Обновить</string>
+</resources>

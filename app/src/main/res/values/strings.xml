@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YandexWeather</string>
+    <string name="degrees">o</string>
+    <string name="city">Moscow</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="perception">Perception</string>
+    <string name="km_h">km/h</string>
+    <string name="refresh">Refresh</string>
+</resources>

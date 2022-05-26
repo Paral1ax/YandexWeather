@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="o">o</string>
+    <string name="city">Moscow</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="perception">Perception</string>
+    <string name="km_h">km/h</string>
+    <string name="refresh">Обновить</string>
+</resources>
