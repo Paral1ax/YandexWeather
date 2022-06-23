@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/black_gradien_theme.xml" value="0.332" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/black_gradient_theme.xml" value="0.332" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/button_menu.xml" value="0.201" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/cardview_style.xml" value="0.332" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/cloud.xml" value="0.332" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/cloud_sun.xml" value="0.332" />
@@ -15,7 +16,14 @@
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/sun.xml" value="0.332" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/thunder.xml" value="0.332" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/drawable/white_theme_gradient.xml" value="0.1735" />
-        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout-land/activity_main.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout-land/activity_select_city.xml" value="0.3106796116504854" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/activity_select_city.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/activity_today_weather_listitem.xml" value="0.67" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/fragment_choose_city.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/next_days_weather_listitem.xml" value="0.33" />
+        <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/select_city_item.xml" value="0.30012825994014536" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/today_weather_layout.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ilya/AndroidProjects/YandexWeather/app/src/main/res/layout/today_weather_listitem.xml" value="0.5" />
       </map>

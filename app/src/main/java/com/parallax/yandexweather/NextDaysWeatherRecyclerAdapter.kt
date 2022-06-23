@@ -14,7 +14,7 @@ import com.bumptech.glide.Glide
  */
 class NextDaysWeatherRecyclerAdapter(
     private var timeAd: ArrayList<String>,
-    private var imageAd: List<Int>,
+    private var imageAd: ArrayList<String>,
     private var temperatureAd: ArrayList<String>,
     private var context: Context
 ) : RecyclerView.Adapter<NextDaysWeatherRecyclerAdapter.ViewHolder>() {
@@ -28,9 +28,9 @@ class NextDaysWeatherRecyclerAdapter(
         var temperature: TextView
 
         init {
-            image = itemView.findViewById(R.id.weatherPick)
-            time = itemView.findViewById(R.id.future_time)
-            temperature = itemView.findViewById(R.id.temp)
+            image = itemView.findViewById(R.id.next_weather)
+            time = itemView.findViewById(R.id.next_time)
+            temperature = itemView.findViewById(R.id.next_temp)
         }
     }
 
@@ -38,7 +38,7 @@ class NextDaysWeatherRecyclerAdapter(
      * Реализация необходимых методов после наследования
      */
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.today_weather_listitem, parent, false)
+        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.next_days_weather_listitem, parent, false)
         return ViewHolder(view)
     }
 

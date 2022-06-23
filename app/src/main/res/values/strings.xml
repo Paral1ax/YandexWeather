@@ -7,4 +7,6 @@
     <string name="perception">Perception</string>
     <string name="km_h">km/h</string>
     <string name="refresh">Refresh</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
